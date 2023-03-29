@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repository](https://your-solution-url.com)
-- Live Site URL: [Base apparel coming soon](https://your-live-site-url.com)
+- Solution URL: [Github repository](https://github.com/ameneses67/base-apparel-coming-soon)
+- Live Site URL: [Base apparel coming soon](https://ameneses67.github.io/base-apparel-coming-soon/)
 
 ## My process
 
