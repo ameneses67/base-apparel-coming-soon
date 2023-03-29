@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
+index-orig.html
 style-guide.md
 README-guide.md
